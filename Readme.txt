@@ -1,5 +1,3 @@
-================================ Tema 1 APD ====================================
-=========================== Petrica Bianca 333CB ===============================
 
 Partea 1.
 	Pentru a putea lucra cu imagini de tip PNM/PGM am creat structura 
